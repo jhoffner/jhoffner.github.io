@@ -8,7 +8,7 @@
 			"region": "California"
 		},
 		"highlights": [
-			"15 Years of professional software development experience",
+			"Over 15 years of professional software development experience",
 			"Co-founded a VC funded startup in 2012",
 			"Self-taught at the age of 19",
 			"First professional job was at the age of 20",
@@ -102,31 +102,48 @@
 	],
 	"markets": [
 		{
-			"name": "Customer Relationship Management"
+			"name": "Consumer Web",
+			"years": 8
 		},
 		{
-			"name": "Crowdsourced Content"
+			"name": "B2B",
+			"years": 8
 		},
 		{
-			"name": "Social Communities"
+			"name": "Customer Relationship Management",
+			"years": 6
 		},
 		{
-			"name": "Content Management Systems"
+			"name": "Open Source",
+			"years": 4
 		},
 		{
-			"name": "Document Management Systems"
+			"name": "Crowdsourced Content",
+			"years": 4
 		},
 		{
-			"name": "Recruiting"
+			"name": "Social Communities",
+			"years": 4
 		},
 		{
-			"name": "Consumer Web"
+			"name": "Television",
+			"years": 4
 		},
 		{
-			"name": "B2B"
+			"name": "Document Management Systems",
+			"years": 4
 		},
 		{
-			"name": "Marketplaces"
+			"name": "Content Management Systems",
+			"years": 2
+		},
+		{
+			"name": "Recruiting",
+			"years": 1
+		},
+		{
+			"name": "Marketplaces",
+			"years": 1
 		}
 	],
 	"achievements": [
@@ -163,10 +180,10 @@
 		{
 			"category": "Career",
 			"items": [
-				"Continue to grow as a technical leader",
-				"Be exposed to new challenges that push my limits",
 				"Build innovative products that make an impact",
-				"Ability to be a core contributor to product decisions"
+				"Ability to be a core contributor to product decisions",
+				"Be exposed to new challenges that push my limits",
+				"Continue to mature as a skilled technical leader"
 			]
 		},
 		{
@@ -192,7 +209,8 @@
 				"Ruby on Rails",
 				"Node.js",
 				"Docker",
-				"UX Design"
+				"UX Design",
+				"Growth Hacking"
 			]
 		},
 		{
@@ -271,7 +289,8 @@
 				"Web Architecture",
 				"Technical Leadership",
 				"Product Management",
-				"UX Design"
+				"UX Design",
+				"Growth Hacking"
 			],
 			"highlights": [
 				{
@@ -392,7 +411,8 @@
 				"Agile Project Management",
 				"Product Management",
 				"UX Design",
-				"Devops"
+				"Devops",
+				"Growth Hacking"
 			],
 			"highlights": [
 				{
@@ -663,7 +683,8 @@
 			"type": "Website",
 			"summary": "I lead the JavaScript development team for the .com team",
 			"roles": [
-				"Frontend Web Development"
+				"Frontend Web Development",
+				"Technical Leadership"
 			],
 			"skills": [
 				"JavaScript",
@@ -673,6 +694,16 @@
 				"JSP"
 			],
 			"highlights": [
+				{
+					"text": "Lead all JavaScript development effort for the website. Trained, mentored and code reviewed all other JavaScript developers on the team.",
+					"skills": [
+						"JavaScript"
+					],
+					"roles": [
+						"Frontend Web Development",
+						"Technical Leadership"
+					]
+				},
 				{
 					"text": "Rebuilt the legacy codebase to use a more modern framework approach while still leveraging the underlying Prototype.JS library.",
 					"skills": [
@@ -966,7 +997,8 @@
 				"Flash",
 				"XML",
 				"ASP",
-				"SVN"
+				"SVN",
+				"VBScript"
 			],
 			"highlights": [
 				{
@@ -1072,6 +1104,10 @@
 		},
 		{
 			"name": "Product Management",
+			"category": "secondary"
+		},
+		{
+			"name": "Growth Hacking",
 			"category": "secondary"
 		},
 		{
@@ -1239,11 +1275,11 @@
 			"category": "legacy"
 		},
 		{
-			"name": "ASP.NET",
+			"name": "ASP",
 			"category": "legacy"
 		},
 		{
-			"name": "ASP",
+			"name": "VBScript",
 			"category": "legacy"
 		}
 	]
