@@ -125,7 +125,7 @@
       <div ng-repeat="area in resume.articles" class="area">
         <h4 ng-if="area.category">{{area.category}}</h4>
         <ul>
-          <li ng-repeat="item in area.items"><a href="{{item.href}}" target="_blank" ng-click="$event.stopPropagation()">{{item.name}}</a></li>
+          <li ng-repeat="item in area.items"><a href="{{item.href}}" external="external">{{item.name}}</a></li>
         </ul>
       </div>
     </resume-section>
@@ -145,7 +145,7 @@
     <!--        li Highly Focused-->
     <resume-section id="social" label="Social" ng-if="resume.basics.profiles.length">
       <ul class="inline-items">
-        <li ng-repeat="profile in resume.basics.profiles"><a ng-href="profile.url" target="_blank" ng-click="$event.stopPropagation()">{{profile.network}}</a></li>
+        <li ng-repeat="profile in resume.basics.profiles"><a ng-href="profile.url" external="external">{{profile.network}}</a></li>
       </ul>
     </resume-section>
   </article>
