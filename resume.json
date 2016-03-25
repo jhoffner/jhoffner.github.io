@@ -800,7 +800,7 @@
 			"name": "DPEG",
 			"company": "DirecTV",
 			"type": "Website",
-			"summary": "As a part of a team dedicated to exploring innovative forward thinking products, I created an internal tool for prototyping web apps.",
+			"summary": "As a part of a team dedicated to exploring innovative forward thinking products, I created an internal tool for rapidly prototyping web apps.",
 			"roles": [
 				"Backend Web Development",
 				"Frontend Web Development",
@@ -917,7 +917,7 @@
 		{
 			"name": "Internal CMS",
 			"company": "Boom Music",
-			"summary": "An internal tool which was used to ingest huge amounts of song data into our system, as well as used by the content team to manage playlists.",
+			"summary": "I built the internal tool which was used to ingest huge amounts of song data into our system, as well as used by the content team to manage playlists.",
 			"type": "Website",
 			"roles": [
 				"Frontend Web Development",
