@@ -1,20 +1,20 @@
 {
 	"basics": {
 		"name": "Jake Hoffner",
-		"label": "Fullstack Web Architect",
+		"label": "Technical Leader / Web Architect",
 		"website": "jhoffner.github.io",
 		"location": {
 			"city": "Los Angeles",
 			"region": "California"
 		},
 		"highlights": [
-			"Over 15 years of professional software development experience",
-			"Co-founded a VC funded startup in 2012",
-			"Self-taught at the age of 19",
-			"First professional job was at the age of 20",
-			"Started as a designer & front-end developer",
-			"Has worked on Federal, State, Military, B2B and Consumer applications",
-			"2x Startup Weekend Winner"
+			"Over 15 years of professional software development experience.",
+			"Co-founded a VC funded startup in 2012.",
+			"Self-taught at the age of 19.",
+			"First professional job was at the age of 20.",
+			"Started as a designer & front-end developer.",
+			"Has worked on Federal, State, Military, B2B and Consumer applications.",
+			"2x Startup Weekend Winner."
 		],
 		"profiles": [
 			{
@@ -88,7 +88,7 @@
 			"title": "Software Developer",
 			"startDate": "Oct 2000",
 			"endDate": "Jan 2008",
-			"summary": "My first full-time development position. I originally interviewed for a web designer position but recent development work I had did with a Flash website motivated them to hire me as a developer. As they were a dev shop, I worked on numurious projects, many of which were for government and military. Eventually the company was acquired by Smith (formally Ascentium)."
+			"summary": "My first full-time development position. I originally interviewed for a web designer position but recent development work I had done with a Flash website motivated them to hire me as a developer instead. As they were a dev shop, I worked on numurious projects, many of which were for government and military. Eventually the company was acquired by Smith (formally Ascentium)."
 		}
 	],
 	"education": [
@@ -229,8 +229,10 @@
 				"Growth Hacking",
 				"Mobile Development",
 				"Flux/React",
-				"Go",
-				"Elixir"
+				"Meteor",
+				"GraphDBs",
+				"Elixir",
+				"Go"
 			]
 		},
 		{
@@ -288,6 +290,7 @@
 				"Frontend Web Development",
 				"Web Architecture",
 				"Technical Leadership",
+				"Agile Project Management",
 				"Product Management",
 				"UX Design",
 				"Growth Hacking"
@@ -495,7 +498,7 @@
 					]
 				},
 				{
-					"text": "Implemented a Neo4j database to map our database as a knowledge graph, which was used for analytics, reporting and recommendations.",
+					"text": "Implemented a Neo4j database to map our database as a knowledge graph, which was used for analytics, reporting and predictive matching.",
 					"skills": [
 						"Neo4j"
 					],
@@ -612,7 +615,10 @@
 				"JavaScript",
 				"HTML",
 				"CSS",
-				"Sass"
+				"Sass",
+				"YAML",
+				"JSON",
+				"Gulp"
 			],
 			"highlights": [
 				{
@@ -623,7 +629,7 @@
 					]
 				},
 				{
-					"text": "The site is an Angular app with no backend. It parses a YAML file into a JSON file during deployment via Gulp.",
+					"text": "The site is an AngularJS app with no backend. It parses a YAML file into a JSON file during deployment via Gulp.",
 					"roles": [
 						"Frontend Web Development"
 					],
@@ -732,10 +738,11 @@
 			"company": "DirecTV",
 			"url": "http://www.directv.com",
 			"type": "Website",
-			"summary": "I lead the JavaScript development team for the .com team.",
+			"summary": "I lead the JavaScript development team for the .com team. My role was that of an \"integrator\" which meant I was also responsible for cordinating and integrating frontend and backend codebases.",
 			"roles": [
 				"Frontend Web Development",
-				"Technical Leadership"
+				"Technical Leadership",
+				"Agile Project Management"
 			],
 			"skills": [
 				"JavaScript",
@@ -756,7 +763,7 @@
 					]
 				},
 				{
-					"text": "Rebuilt the legacy codebase to use a more modern framework approach while still leveraging the underlying Prototype.JS library.",
+					"text": "Rebuilt the legacy codebase to use a modern framework approach while still leveraging the underlying Prototype.JS library.",
 					"skills": [
 						"JavaScript",
 						"Prototype.JS"
@@ -773,6 +780,18 @@
 					],
 					"roles": [
 						"Backend Web Development"
+					]
+				},
+				{
+					"text": "Was responsible for picking, managing and maintaining our project management solution (Target Process).",
+					"roles": [
+						"Agile Project Management"
+					]
+				},
+				{
+					"text": "Worked with multiple teams to help develop a project management process that was both agile and still worked within the company's otherwise waterfall management style.",
+					"roles": [
+						"Agile Project Management"
 					]
 				}
 			]
@@ -1126,12 +1145,12 @@
 	"roles": [
 		{
 			"name": "Frontend Web Development",
-			"years": 15,
+			"years": 16,
 			"category": "primary"
 		},
 		{
 			"name": "Backend Web Development",
-			"years": 13,
+			"years": 14,
 			"category": "primary"
 		},
 		{
@@ -1146,16 +1165,16 @@
 		},
 		{
 			"name": "Agile Project Management",
-			"years": 4,
-			"category": "primary"
-		},
-		{
-			"name": "Rapid Prototyping",
-			"years": 3,
+			"years": 5,
 			"category": "primary"
 		},
 		{
 			"name": "Product Management",
+			"years": 3,
+			"category": "primary"
+		},
+		{
+			"name": "Rapid Prototyping",
 			"category": "secondary"
 		},
 		{
@@ -1178,17 +1197,17 @@
 	"skills": [
 		{
 			"name": "JavaScript",
-			"years": 15,
+			"years": 16,
 			"category": "primary"
 		},
 		{
 			"name": "Ruby",
-			"years": 3,
+			"years": 4,
 			"category": "primary"
 		},
 		{
 			"name": "Ruby on Rails",
-			"years": 3,
+			"years": 4,
 			"category": "primary"
 		},
 		{
@@ -1198,12 +1217,12 @@
 		},
 		{
 			"name": "HTML/CSS",
-			"years": 15,
+			"years": 16,
 			"category": "primary"
 		},
 		{
 			"name": "Node.js",
-			"years": 3,
+			"years": 4,
 			"category": "primary"
 		},
 		{
