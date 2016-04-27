@@ -537,7 +537,7 @@
 			"name": "CodeRunner",
 			"company": "Entrefuse",
 			"type": "Open Source",
-			"url": "https://github.com/Codewars/coderunner-cli",
+			"url": "https://github.com/Codewars/codewars-runner-cli",
 			"summary": "A code execution engine that supports safely executing code challenges within a sandbox. Used by both Strive and Codewars.",
 			"roles": [
 				"Backend Web Development",
