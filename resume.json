@@ -649,6 +649,45 @@
 			]
 		},
 		{
+			"name": "MagLev",
+			"company": "Entrefuse",
+			"type": "Open Source",
+			"url": "https://github.com/jhoffner/mag-lev",
+			"summary": "A set of Rails extensions to super charge the development process. It was a set of best practices that came out of building 2 different websites (Codewars & Strive) with Rails.",
+			"roles": [
+				"Backend Web Development"
+			],
+			"skills": [
+				"Ruby",
+				"Ruby on Rails",
+				"Redis"
+			],
+			"highlights": [
+				{
+					"text": "Built a number of ActiveJob extensions for handling sophisticated async workflows and backend data processing.",
+					"roles": [
+						"Backend Web Development"
+					],
+					"skills": [
+						"Ruby",
+						"Ruby on Rails",
+						"Redis"
+					]
+				},
+				{
+					"text": "Implemented a listener pattern that makes it far easier to implement sophisticated systems while keeping a maintable codebase.",
+					"roles": [
+						"Backend Web Development"
+					],
+					"skills": [
+						"Ruby",
+						"Ruby on Rails",
+						"Redis"
+					]
+				}
+			]
+		},
+		{
 			"name": "Stateful",
 			"company": "Entrefuse",
 			"type": "Open Source",
